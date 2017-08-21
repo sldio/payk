@@ -1,5 +1,3 @@
-# Compiled class file
-*.class
 
 # Log file
 *.log
@@ -19,7 +17,7 @@
 *.rar
 
 # learned servlet
-servlet/
+/servlet/
 
 #try to learn spring
-Spring/
+/Spring/
