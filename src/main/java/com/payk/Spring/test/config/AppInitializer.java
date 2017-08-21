@@ -24,4 +24,9 @@ public class AppInitializer extends AbstractAnnotationConfigDispatcherServletIni
     {
         return new String[0];
     }
+
+    public static void ii()
+    {
+        System.out.println("sfsd");
+    }
 }
