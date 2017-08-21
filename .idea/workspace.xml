@@ -274,7 +274,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignor">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
-              <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+              <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -343,7 +343,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/CurrentSite.java" />
         <option value="$PROJECT_DIR$/src/main/java/WorkWithDatabase.java" />
         <option value="$PROJECT_DIR$/src/main/java/Parser.java" />
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
@@ -394,6 +393,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/payk/servicepack/ConnectToDatabase.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/payk/servicepack/Parser.java" />
         <option value="$PROJECT_DIR$/src/main/.gitignor" />
+        <option value="$PROJECT_DIR$/.gitignor" />
       </list>
     </option>
   </component>
@@ -1215,7 +1215,7 @@
       <workItem from="1502352978545" duration="730000" />
       <workItem from="1502358191013" duration="616000" />
       <workItem from="1503295459971" duration="1729000" />
-      <workItem from="1503299965770" duration="293000" />
+      <workItem from="1503299965770" duration="575000" />
     </task>
     <servers />
   </component>
@@ -1225,7 +1225,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="153676000" />
+    <option name="totallyTimeSpent" value="153958000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1631,7 +1631,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignor">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
-          <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+          <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
           <folding />
         </state>
       </provider>

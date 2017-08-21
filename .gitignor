@@ -17,7 +17,7 @@
 *.rar
 
 # learned servlet
-/servlet/
+/servlet
 
 #try to learn spring
-/Spring/
+/Spring
