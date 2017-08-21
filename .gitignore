@@ -5,12 +5,10 @@
 # BlueJ files
 *.ctxt
 
-.idea
-
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
-# Package Files #
+# Package Files
 *.jar
 *.war
 *.ear
@@ -24,3 +22,5 @@ src/main/java/com/payk/Spring/
 src/main/webapp/WEB-INF/
 src/main/resources/bodyNew.html
 src/main/resources/test.html
+
+.idea/
