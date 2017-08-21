@@ -5,7 +5,7 @@
 # BlueJ files
 *.ctxt
 
-.idea/workspace.xml
+.idea
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
@@ -20,7 +20,6 @@
 
 #try to learn spring
 /src/main/java/com/payk/Spring
-.idea/inspectionProfiles/
 src/main/java/com/payk/Spring/
 src/main/webapp/WEB-INF/
 src/main/resources/bodyNew.html
