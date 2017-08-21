@@ -20,3 +20,8 @@
 
 #try to learn spring
 /src/main/java/com/payk/Spring
+.idea/inspectionProfiles/
+src/main/java/com/payk/Spring/
+src/main/webapp/WEB-INF/
+src/main/resources/bodyNew.html
+src/main/resources/test.html
