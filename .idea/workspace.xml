@@ -271,7 +271,7 @@
         </entry>
       </file>
       <file leaf-file-name=".gitignor" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/.gitignor">
+        <entry file="file://$PROJECT_DIR$/.gitignor">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
               <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
@@ -545,6 +545,9 @@
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\1\IdeaProjects\payk" />
     </key>
   </component>
   <component name="RunManager" selected="Application.PrepareInfoFromDatabase">
@@ -1212,7 +1215,7 @@
       <workItem from="1502352978545" duration="730000" />
       <workItem from="1502358191013" duration="616000" />
       <workItem from="1503295459971" duration="1729000" />
-      <workItem from="1503299965770" duration="35000" />
+      <workItem from="1503299965770" duration="293000" />
     </task>
     <servers />
   </component>
@@ -1222,7 +1225,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="153418000" />
+    <option name="totallyTimeSpent" value="153676000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1625,7 +1628,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/.gitignor">
+    <entry file="file://$PROJECT_DIR$/.gitignor">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
