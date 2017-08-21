@@ -1,9 +1,7 @@
 package com.payk.servicepack;
 
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.IOException;
-import java.io.InputStream;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
@@ -40,7 +38,7 @@ public class ConnectToDatabase
 
 
     }
-    public static Boolean tryDrivaerForDatabase()
+    public static Boolean tryDriverForDatabase()
     {
         try
         {
@@ -57,7 +55,7 @@ public class ConnectToDatabase
 
     public static Connection getConnection()
     {
-        if (tryDrivaerForDatabase())
+        if (tryDriverForDatabase())
         {
             Connection connection = null;
             getDataForConnection();

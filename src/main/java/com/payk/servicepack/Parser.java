@@ -76,7 +76,7 @@ public class Parser implements Runnable
                         CurrentSite currentSiteForWrite = CurrentSite.makeNewCurrentSite(href, idURL);
                         WorkWithSitesDatabase.writeToDatabase(currentSiteForWrite);
 
-                        /*int siteId = WorkWithSitesDatabase.getSiteIdByUrl(currentSiteForWrite);
+                        int siteId = WorkWithSitesDatabase.getSiteIdByUrl(currentSiteForWrite);
                         Element siteBody = Jsoup.connect(href).get().body();
                         page = new Page(siteId, siteBody.toString());
 
@@ -87,7 +87,7 @@ public class Parser implements Runnable
                         catch (SQLException e)
                         {
                             WorkWithPagesDatabase.updateSiteBody(page);
-                        }*/
+                        }
                     }
                     else
                     {
@@ -95,7 +95,7 @@ public class Parser implements Runnable
                         CurrentSite currentSiteForWrite = CurrentSite.makeNewCurrentSite(href, idURL);
                         WorkWithSitesDatabase.writeToDatabase(currentSiteForWrite);
 
-                        /*int siteId = WorkWithSitesDatabase.getSiteIdByUrl(currentSiteForWrite);
+                        int siteId = WorkWithSitesDatabase.getSiteIdByUrl(currentSiteForWrite);
                         Element siteBody = Jsoup.connect(href).get().body();
                         page = new Page(siteId, siteBody.toString());
 
@@ -106,7 +106,7 @@ public class Parser implements Runnable
                         catch (SQLException e)
                         {
                             WorkWithPagesDatabase.updateSiteBody(page);
-                        }*/
+                        }
                     }
                 }
 
