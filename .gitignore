@@ -18,8 +18,5 @@
 *.tar.gz
 *.rar
 
-# learned servlet
-/servlet
-
 #try to learn spring
-/Spring
+/src/main/java/com/payk/Spring
